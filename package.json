@@ -2,7 +2,8 @@
   "name": "recipeblog",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
+  "engine": {},
   "scripts": {
     "start": "nodemon app.js"
   },
